@@ -1,0 +1,16 @@
+# Git Basics Project
+
+This repository is created for practicing Git and GitHub workflow.
+
+## Files
+- **index.html** - Basic HTML structure.
+- **style.css** - Simple styling.
+- **script.js** - JavaScript file for basic functionality.
+- **text.txt** - Basic Text file for PR purpose.
+
+## Workflow
+1. Created repository locally.
+2. Added basic files.
+3. Committed and pushed to GitHub.
+4. Created a new branch for a new feature.
+5. Made a pull request and merged changes.
